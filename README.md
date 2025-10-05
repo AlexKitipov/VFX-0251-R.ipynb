@@ -38,5 +38,5 @@
 ## 🚀 Стартиране локално
 1. Клонирайте репото:  
    ```bash
-   git clone https://github.com/<your-username>/valkiria-vh.git
-   cd valkiria-vh
+   https://github.com/AlexKitipov/VFX-0251-R.ipynb.git
+
