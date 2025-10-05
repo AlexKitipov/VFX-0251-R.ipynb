@@ -1,6 +1,6 @@
 # VFX-0251-R.ipynb
 
-# Valkiria VH ⚔️  
+# Valkiria VX ⚔️  
 **AI Ensemble Trading Platform**
 
 Валкирия ВХ е експериментална платформа за алгоритмична търговия, изградена като ансамбъл от три агента.  
