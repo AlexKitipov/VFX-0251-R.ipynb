@@ -42,8 +42,3 @@
 
 ## Интерфейс на таблото
 
-![Стъпка 1](screenshots/screenshot-1759668688194.png)
-![Стъпка 2](screenshots/screenshot-1759668801172.png)
-![Стъпка 3](screenshots/screenshot-1759669011626.png)
-![Стъпка 4](screenshots/screenshot-1759669196553.png)
-![Стъпка 5](screenshots/screenshot-1759669509924.png)
